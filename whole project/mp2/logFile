@@ -1,0 +1,8 @@
+2014-06-29 10:30:12,042-[TS] INFO main mp2 - This is an info.
+2014-06-29 10:30:12,046-[TS] WARN main mp2 - This is a warning.
+2014-06-29 10:30:12,047-[TS] ERROR main mp2 - This is an error.
+2014-06-29 10:30:12,047-[TS] FATAL main mp2 - This is a fatal error.
+2014-06-29 10:30:12,047-[TS] INFO main mp2 - I love my little ponies!!!
+2014-06-29 10:30:12,047-[TS] WARN main mp2 - But among them...
+2014-06-29 10:30:12,048-[TS] ERROR main mp2 - Derpy is my favorite
+2014-06-29 10:30:12,048-[TS] FATAL main mp2 - I used to love fluttershy though...

@@ -1,0 +1,22 @@
+MANUAL:
+
+1.copy the folder "executable file" to anywhere you prefer. Just to make sure everything inside "executable file" are in the same folder.
+
+2.start terminal, type in "java -jar mp2.jar"
+
+3.you will be asked to input your port number
+
+4.then you will be asked if you are the contact machine, type "y" or "n" for yes or no
+
+5.If you are not the contact machine, you need to type in the contact machine's IP and port
+
+6.Please make sure start contact machine first
+
+7.then it will begin to work. Once any new machine joined or an old one fail, the terminal will notice you
+
+8.if the contact one down and come back, you will also get notification. For contact machine to come back, just do it as step 3 and 4
+
+9.every procedure will be written in a file called "logFile" in the same folder
+
+
+Enjoy! :)

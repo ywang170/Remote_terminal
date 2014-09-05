@@ -1,0 +1,12 @@
+2014-07-02 21:59:42,693-[TS] INFO Thread-0 mp2 - receiving a new server... ( /192.168.44.129 2000)
+2014-07-02 21:59:42,727-[TS] INFO Thread-0 mp2 - adding new server! servers we have: 2
+2014-07-02 21:59:48,775-[TS] INFO Thread-2 mp2 - server /192.168.44.129 1994 has failed!
+2014-07-02 22:00:15,382-[TS] INFO Thread-0 mp2 - receiving a new server... ( /192.168.44.129 4000)
+2014-07-02 22:00:15,452-[TS] INFO Thread-0 mp2 - adding new server! servers we have: 2
+2014-07-02 22:00:20,032-[TS] INFO Thread-2 mp2 - server /192.168.44.129 3000 has failed!
+2014-07-02 22:00:23,975-[TS] INFO Thread-0 mp2 - adding new server! servers we have: 2
+2014-07-02 22:00:24,293-[TS] INFO Thread-1 mp2 - the contact server is back!
+2014-07-02 22:00:32,682-[TS] INFO Thread-1 mp2 - server /192.168.44.129 2000 has failed!
+2014-07-02 22:00:32,686-[TS] INFO Thread-1 mp2 - the contact server is back!
+2014-07-02 22:00:32,703-[TS] INFO Thread-0 mp2 - adding new server! servers we have: 2
+2014-07-02 22:00:32,719-[TS] INFO Thread-1 mp2 - server /192.168.44.129 4000 has failed!
